@@ -25,4 +25,4 @@ Ele permite adicionar, editar, excluir e visualizar informações de alunos, al�
 ## Como Executar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SeuUsuario/CRUD-Alunos-Turmas.git
+   git clone https://github.com/Giov4nnaxx/atividade1-java.git
